@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Giwa Blog
+title: Giwa
 tagline: A better way to give away
 ---
 {% include JB/setup %}
