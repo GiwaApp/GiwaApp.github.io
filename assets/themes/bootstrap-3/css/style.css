@@ -18,7 +18,13 @@ h1, h2, h3, h4 {
   color: #9D6CAE;
 }
 
+body {
+  font-size:18px;
+}
 
+.post-meta {
+  font-size: 14px;
+}
 
 /* posts index */
 .post > h3.title {
